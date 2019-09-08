@@ -3,7 +3,7 @@ kind: AppsodyApplication
 metadata:
   name: 1-2
 spec:
-  # Add fields here
+  # Add fields comment here
   version: 1.0.0
   applicationImage: 1-2 
   stack: java-microprofile
