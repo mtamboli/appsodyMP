@@ -1,11 +1,11 @@
 apiVersion: appsody.dev/v1beta1
 kind: AppsodyApplication
 metadata:
-  name: 1-2
+  name: mstmp
 spec:
   # Add fields here
   version: 1.0.0
-  applicationImage: 1-2 
+  applicationImage: mstmp 
   stack: java-microprofile
   service:
     type: NodePort
