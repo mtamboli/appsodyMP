@@ -5,7 +5,7 @@ metadata:
 spec:
   # Add more fields here as required - update
   version: 1.0.0
-  applicationImage: mstmp 
+  applicationImage: mstmp1
   stack: java-microprofile
   service:
     type: NodePort
