@@ -3,7 +3,7 @@ kind: AppsodyApplication
 metadata:
   name: mstmp
 spec:
-  # Add more fields here as required
+  # Add more fields here as required - update
   version: 1.0.0
   applicationImage: mstmp 
   stack: java-microprofile
